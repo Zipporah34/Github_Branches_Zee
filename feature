@@ -1,3 +1,3 @@
 
-eat: pizza
+conflict 1
 
